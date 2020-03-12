@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+}
+echo "# Vantso-Test" >> README.md
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.modal-body {
+    text-align: center;
+}
+
+.btn {
+    margin: 0 20px;
+}
+
