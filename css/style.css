@@ -1,7 +1,7 @@
 body, html {
     height: 100%;
 }
-echo "# Vantso-Test" >> README.md
+
 body {
     display: flex;
     justify-content: center;
